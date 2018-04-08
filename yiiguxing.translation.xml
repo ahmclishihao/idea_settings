@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="最爱" />
+      <item value="爱好" />
+      <item value="favorties" />
       <item value="Web App Boundary" />
       <item value="# For a quick start check out our HTTP Requests collection (Tools|HTTP Client|Open HTTP Requests Collection). # # Following HTTP Request Live Templates are available: # * 'gtrp' and 'gtr' create a GET request with or without query parameters; # * 'ptr' and 'ptrp' create a POST request with a simple or parameter-like body; # * 'mptr' and 'fptr' create a POST request to submit a form with a text or file field (multipart/form-data);" />
       <item value="appropriate" />
@@ -50,9 +53,6 @@
       <item value="Tokenizer" />
       <item value="* Common interface for component life cycle methods. Catalina components * may, but are not required to, implement this interface (as well as the * appropriate interface(s) for the functionality they support) in order to * provide a consistent mechanism to start and stop the component." />
       <item value="nt mec" />
-      <item value="consistent" />
-      <item value="mechanism" />
-      <item value="corresponding" />
     </histories>
   </component>
   <component name="Settings">
