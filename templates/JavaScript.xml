@@ -1,0 +1,7 @@
+<templateSet group="JavaScript">
+  <template name="ajaxJson" value="$.ajax({&#10;    url:&quot;&quot;,&#10;    type:&quot;get&quot;,&#10;    data:&quot;&quot;,&#10;    dataType:&quot;json&quot;,&#10;    success:function(data){&#10;        if(data.code == &quot;0&quot;){&#10;            // 响应成功&#10;        }else if(data.code == &quot;101&quot;){&#10;            // 参数错误&#10;        }&#10;    },&#10;    error:function(x,t,e){&#10;        alert(&quot;系统错误&quot;);&#10;    }&#10;});" description="自动ajax" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,24 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="$ShowTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="$TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="ActivateProjectToolWindow" />
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="Editor ShowTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="Editor TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+</keymap>

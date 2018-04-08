@@ -1,0 +1,35 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="MySQL" injector-id="java">
+      <display-name>BabyParentGetDataFromSource.selectdata (com.xrplatform.dbprog)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("selectdata").withParameters("java.lang.String", "java.lang.String", "java.lang.String", "java.lang.String[]").definedInClass("com.xrplatform.dbprog.BabyParentGetDataFromSource"))]]></place>
+    </injection>
+    <injection language="GenericSQL" injector-id="java">
+      <display-name>EntityManager (javax.persistence)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("javax.persistence.EntityManager"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String").definedInClass("javax.persistence.EntityManager"))]]></place>
+    </injection>
+    <injection language="SQL" injector-id="java">
+      <display-name>EntityManager.createNativeQuery (javax.persistence)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").withParameters("java.lang.String").definedInClass("javax.persistence.EntityManager"))]]></place>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("javax.persistence.EntityManager"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").withParameters("java.lang.String", "java.lang.String").definedInClass("javax.persistence.EntityManager"))]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="java">
+      <display-name>EntityManager.createQuery (javax.persistence)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("javax.persistence.EntityManager"))]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="java">
+      <display-name>LeaderGetDataFromSource.selectdata (com.xrplatform.dbprog)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("selectdata").withParameters("java.lang.String", "java.lang.String", "java.lang.String", "java.lang.String[]").definedInClass("com.xrplatform.dbprog.LeaderGetDataFromSource"))]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="java">
+      <display-name>ParentGetDataFromSource.selectdata (com.xrplatform.dbprog)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("selectdata").withParameters("java.lang.String", "java.lang.String", "java.lang.String", "java.lang.String[]").definedInClass("com.xrplatform.dbprog.ParentGetDataFromSource"))]]></place>
+    </injection>
+    <injection language="GenericSQL" injector-id="java">
+      <display-name>Sql.execute (groovy.sql)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("execute").withParameters("groovy.lang.GString").definedInClass("groovy.sql.Sql"))]]></place>
+    </injection>
+  </component>
+</application>

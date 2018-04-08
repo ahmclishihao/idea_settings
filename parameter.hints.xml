@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.xrplatform.dbprog.ParentGetDataFromSource.selectdata(SqlStrPart,whereAndstr,sortstr,tablefieldname)" />
+        <added pattern="com.xrplatform.dbprog.LeaderGetDataFromSource.selectdata(SqlStrPart,whereAndstr,sortstr,tablefieldname)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

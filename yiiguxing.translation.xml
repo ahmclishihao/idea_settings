@@ -1,0 +1,67 @@
+<application>
+  <component name="AppStorage">
+    <option name="lastSourceLanguage" value="AUTO" />
+    <option name="lastTargetLanguage" value="AUTO" />
+    <histories>
+      <item value="appropriate" />
+      <item value="get Canonical Path" />
+      <item value="canonical" />
+      <item value="termination" />
+      <item value="semaphore" />
+      <item value="modification" />
+      <item value="Perform" />
+      <item value="specification" />
+      <item value="recommended" />
+      <item value="delegation" />
+      <item value="model" />
+      <item value="faithfully" />
+      <item value="firing" />
+      <item value="assisat" />
+      <item value="as of Spring 4.2.1, in favor of Apache Log4j 2 (following Apache's EOL declaration for log4j 1.x)" />
+      <item value="Lifecycle Event" />
+      <item value="notifications" />
+      <item value="Implementation of Mapper for a Context, designed to process HTTP requests. This mapper selects an appropriate Wrapper based on the request URI included in the request. IMPLEMENTATION NOTE: This Mapper only works with a StandardContext, because it relies on internal APIs." />
+      <item value="Return the child Container that should be used to process this Request, based upon its characteristics. If no such child Container can be identified, return null instead." />
+      <item value="Interface defining methods that a parent Container may implement to select a subordinate Container to process a particular Request, optionally modifying the properties of the Request to reflect the selections made. A typical Container may be associated with a single Mapper that processes all requests to that Container, or a Mapper per request protocol that allows the same Container to support multiple protocols at once." />
+      <item value="this is a kludge that avoids having to do special" />
+      <item value="kludge" />
+      <item value="HOLD YOUR NOSE" />
+      <item value="A Wrapper is a Container that represents an individual servlet definition from the deployment descriptor of the web application. It provides a convenient mechanism to use Interceptors that see every single request to the servlet represented by this definition. Implementations of Wrapper are responsible for managing the servlet life cycle for their underlying servlet class, including calling init() and destroy() at appropriate times, as well as respecting the existence of the SingleThreadModel declaration on the servlet class itself. The parent Container attached to a Wrapper will generally be an implementation of Context, representing the servlet context (and therefore the web application) within which this servlet executes. Child Containers are not allowed on Wrapper implementations, so the addChild() method should throw an IllegalArgumentException." />
+      <item value="if any" />
+      <item value="Decoupling" />
+      <item value="coupling" />
+      <item value="associated" />
+      <item value="available" />
+      <item value="newly" />
+      <item value="Process an incoming TCP/IP connection on the specified socket. Any exception that occurs during processing must be logged and swallowed. NOTE: This method is called from our Connector's thread. We must assign it to our own thread so that multiple simultaneous requests can be handled." />
+      <item value="* Process an incoming TCP/IP connection on the specified socket. Any * exception that occurs during processing must be logged and swallowed. * &lt;b&gt;NOTE&lt;/b&gt;: This method is called from our Connector's thread. We * must assign it to our own thread so that multiple simultaneous * requests can be handled." />
+      <item value="assign" />
+      <item value="process" />
+      <item value="suspend" />
+      <item value="Acquire" />
+      <item value="considered typical" />
+      <item value="normative" />
+      <item value="widely" />
+      <item value="internal" />
+      <item value="eol" />
+      <item value="next Token" />
+      <item value="Tokenizer" />
+      <item value="* Common interface for component life cycle methods. Catalina components * may, but are not required to, implement this interface (as well as the * appropriate interface(s) for the functionality they support) in order to * provide a consistent mechanism to start and stop the component." />
+      <item value="nt mec" />
+      <item value="consistent" />
+      <item value="mechanism" />
+      <item value="corresponding" />
+      <item value="Cluster" />
+      <item value="Wrapper" />
+    </histories>
+  </component>
+  <component name="Settings">
+    <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="76c4912df8b13284" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
