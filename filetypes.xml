@@ -1,0 +1,19 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="planning_task_manage_modifyModel" type="PLAIN_TEXT" />
+      <mapping pattern="payee_contacts_list" type="PLAIN_TEXT" />
+      <mapping pattern="spend_contract_mod_modal" type="PLAIN_TEXT" />
+      <mapping pattern="xxx" type="PLAIN_TEXT" />
+      <mapping pattern="department_model_add.ftl" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="proerties" type="PLAIN_TEXT" />
+      <mapping ext="si" type="PLAIN_TEXT" />
+      <mapping ext="cfs" type="PLAIN_TEXT" />
+      <mapping ext="cfe" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="Properties" />
+      <mapping ext="mdf" type="SQL" />
+    </extensionMap>
+  </component>
+</application>
