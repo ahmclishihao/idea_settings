@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="repeat Id" />
       <item value="blockquote" />
       <item value="最爱" />
       <item value="爱好" />
@@ -52,7 +53,6 @@
       <item value="eol" />
       <item value="next Token" />
       <item value="Tokenizer" />
-      <item value="* Common interface for component life cycle methods. Catalina components * may, but are not required to, implement this interface (as well as the * appropriate interface(s) for the functionality they support) in order to * provide a consistent mechanism to start and stop the component." />
     </histories>
   </component>
   <component name="Settings">
