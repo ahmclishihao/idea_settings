@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="固定的" />
+      <item value="flixed" />
       <item value="repeat Id" />
       <item value="blockquote" />
       <item value="最爱" />
@@ -51,8 +53,6 @@
       <item value="widely" />
       <item value="internal" />
       <item value="eol" />
-      <item value="next Token" />
-      <item value="Tokenizer" />
     </histories>
   </component>
   <component name="Settings">
