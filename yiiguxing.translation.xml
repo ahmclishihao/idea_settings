@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="seconds" />
       <item value="change" />
       <item value="模板" />
       <item value="module" />
@@ -52,7 +53,6 @@
       <item value="suspend" />
       <item value="Acquire" />
       <item value="considered typical" />
-      <item value="normative" />
     </histories>
   </component>
   <component name="Settings">
