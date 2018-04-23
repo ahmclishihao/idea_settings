@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="proposed" />
+      <item value="Metrics" />
+      <item value="Metrics Filter" />
       <item value="Delegate" />
       <item value="For updating, should this entity use dynamic sql generation where only changed columns get referenced in the prepared sql statement? Note, for re-attachment of detached entities this is not possible without select-before-update being enabled." />
       <item value="seconds" />
@@ -50,9 +53,6 @@
       <item value="newly" />
       <item value="Process an incoming TCP/IP connection on the specified socket. Any exception that occurs during processing must be logged and swallowed. NOTE: This method is called from our Connector's thread. We must assign it to our own thread so that multiple simultaneous requests can be handled." />
       <item value="* Process an incoming TCP/IP connection on the specified socket. Any * exception that occurs during processing must be logged and swallowed. * &lt;b&gt;NOTE&lt;/b&gt;: This method is called from our Connector's thread. We * must assign it to our own thread so that multiple simultaneous * requests can be handled." />
-      <item value="assign" />
-      <item value="process" />
-      <item value="suspend" />
     </histories>
   </component>
   <component name="Settings">
