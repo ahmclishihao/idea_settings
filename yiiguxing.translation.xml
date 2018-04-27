@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="Illegal use of mappedBy on both sides of the relationship: com.xrplatform_new.entity.TUnitInfo.tUnitResources" />
       <item value="proposed" />
       <item value="Metrics" />
       <item value="Metrics Filter" />
@@ -52,7 +53,6 @@
       <item value="available" />
       <item value="newly" />
       <item value="Process an incoming TCP/IP connection on the specified socket. Any exception that occurs during processing must be logged and swallowed. NOTE: This method is called from our Connector's thread. We must assign it to our own thread so that multiple simultaneous requests can be handled." />
-      <item value="* Process an incoming TCP/IP connection on the specified socket. Any * exception that occurs during processing must be logged and swallowed. * &lt;b&gt;NOTE&lt;/b&gt;: This method is called from our Connector's thread. We * must assign it to our own thread so that multiple simultaneous * requests can be handled." />
     </histories>
   </component>
   <component name="Settings">
