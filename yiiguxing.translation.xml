@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="flat Map" />
+      <item value="reduce" />
       <item value="resources" />
       <item value="buttom" />
       <item value="Illegal use of mappedBy on both sides of the relationship: com.xrplatform_new.entity.TUnitInfo.tUnitResources" />
@@ -51,8 +53,6 @@
       <item value="if any" />
       <item value="Decoupling" />
       <item value="coupling" />
-      <item value="associated" />
-      <item value="available" />
     </histories>
   </component>
   <component name="Settings">
