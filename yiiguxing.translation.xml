@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="oneshot" />
+      <item value="onshot" />
       <item value="delegate" />
       <item value="Note: Only invoked on beans whose lifecycle is under the full control of the factory - which is always the case for singletons, but not guaranteed for any other scope." />
       <item value="guaranteed" />
@@ -51,8 +53,6 @@
       <item value="Interface defining methods that a parent Container may implement to select a subordinate Container to process a particular Request, optionally modifying the properties of the Request to reflect the selections made. A typical Container may be associated with a single Mapper that processes all requests to that Container, or a Mapper per request protocol that allows the same Container to support multiple protocols at once." />
       <item value="this is a kludge that avoids having to do special" />
       <item value="kludge" />
-      <item value="HOLD YOUR NOSE" />
-      <item value="A Wrapper is a Container that represents an individual servlet definition from the deployment descriptor of the web application. It provides a convenient mechanism to use Interceptors that see every single request to the servlet represented by this definition. Implementations of Wrapper are responsible for managing the servlet life cycle for their underlying servlet class, including calling init() and destroy() at appropriate times, as well as respecting the existence of the SingleThreadModel declaration on the servlet class itself. The parent Container attached to a Wrapper will generally be an implementation of Context, representing the servlet context (and therefore the web application) within which this servlet executes. Child Containers are not allowed on Wrapper implementations, so the addChild() method should throw an IllegalArgumentException." />
     </histories>
   </component>
   <component name="Settings">
