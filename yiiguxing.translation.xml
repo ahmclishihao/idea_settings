@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="Returns true if and only if the specified class was dynamically generated to be a proxy class using the getProxyClass method or the newProxyInstance method. The reliability of this method is important for the ability to use it to make security decisions, so its implementation should not just test if the class in question extends Proxy" />
+      <item value="Caller Sensitive" />
+      <item value="Sensitive" />
       <item value="designated" />
       <item value="initargs" />
       <item value="Privileged" />
@@ -50,9 +53,6 @@
       <item value="model" />
       <item value="faithfully" />
       <item value="firing" />
-      <item value="assisat" />
-      <item value="as of Spring 4.2.1, in favor of Apache Log4j 2 (following Apache's EOL declaration for log4j 1.x)" />
-      <item value="Lifecycle Event" />
     </histories>
   </component>
   <component name="Settings">
