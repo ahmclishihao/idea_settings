@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="designated" />
+      <item value="initargs" />
+      <item value="Privileged" />
       <item value="Autowired" />
       <item value="Qualifier" />
       <item value="expression" />
@@ -50,9 +53,6 @@
       <item value="assisat" />
       <item value="as of Spring 4.2.1, in favor of Apache Log4j 2 (following Apache's EOL declaration for log4j 1.x)" />
       <item value="Lifecycle Event" />
-      <item value="notifications" />
-      <item value="Implementation of Mapper for a Context, designed to process HTTP requests. This mapper selects an appropriate Wrapper based on the request URI included in the request. IMPLEMENTATION NOTE: This Mapper only works with a StandardContext, because it relies on internal APIs." />
-      <item value="Return the child Container that should be used to process this Request, based upon its characteristics. If no such child Container can be identified, return null instead." />
     </histories>
   </component>
   <component name="Settings">
