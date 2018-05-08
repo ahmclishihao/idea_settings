@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="Autowired" />
+      <item value="Qualifier" />
       <item value="expression" />
       <item value="oneshot" />
       <item value="onshot" />
@@ -51,8 +53,6 @@
       <item value="notifications" />
       <item value="Implementation of Mapper for a Context, designed to process HTTP requests. This mapper selects an appropriate Wrapper based on the request URI included in the request. IMPLEMENTATION NOTE: This Mapper only works with a StandardContext, because it relies on internal APIs." />
       <item value="Return the child Container that should be used to process this Request, based upon its characteristics. If no such child Container can be identified, return null instead." />
-      <item value="Interface defining methods that a parent Container may implement to select a subordinate Container to process a particular Request, optionally modifying the properties of the Request to reflect the selections made. A typical Container may be associated with a single Mapper that processes all requests to that Container, or a Mapper per request protocol that allows the same Container to support multiple protocols at once." />
-      <item value="this is a kludge that avoids having to do special" />
     </histories>
   </component>
   <component name="Settings">
