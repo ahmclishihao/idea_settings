@@ -3,6 +3,16 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="重复" />
+      <item value="NORMAL" />
+      <item value="普通" />
+      <item value="平等" />
+      <item value="平等的" />
+      <item value="中等的" />
+      <item value="平凡" />
+      <item value="平常" />
+      <item value="普通的" />
+      <item value="NOMORAL" />
       <item value="Returns true if and only if the specified class was dynamically generated to be a proxy class using the getProxyClass method or the newProxyInstance method. The reliability of this method is important for the ability to use it to make security decisions, so its implementation should not just test if the class in question extends Proxy" />
       <item value="Caller Sensitive" />
       <item value="Sensitive" />
@@ -43,16 +53,6 @@
       <item value="appropriate" />
       <item value="get Canonical Path" />
       <item value="canonical" />
-      <item value="termination" />
-      <item value="semaphore" />
-      <item value="modification" />
-      <item value="Perform" />
-      <item value="specification" />
-      <item value="recommended" />
-      <item value="delegation" />
-      <item value="model" />
-      <item value="faithfully" />
-      <item value="firing" />
     </histories>
   </component>
   <component name="Settings">
