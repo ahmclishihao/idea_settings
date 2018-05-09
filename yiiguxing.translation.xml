@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="populated" />
       <item value="Supported in addition to the standard scopes &quot;singleton&quot; and &quot;prototype&quot;." />
       <item value="addition" />
       <item value="VIEW RESOLVER BEAN NAME" />
@@ -52,7 +53,6 @@
       <item value="最爱" />
       <item value="爱好" />
       <item value="favorties" />
-      <item value="Web App Boundary" />
     </histories>
   </component>
   <component name="Settings">
