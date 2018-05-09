@@ -3,6 +3,9 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="peek" />
+      <item value="infer" />
+      <item value="Map" />
       <item value="populated" />
       <item value="Supported in addition to the standard scopes &quot;singleton&quot; and &quot;prototype&quot;." />
       <item value="addition" />
@@ -50,9 +53,6 @@
       <item value="flixed" />
       <item value="repeat Id" />
       <item value="blockquote" />
-      <item value="最爱" />
-      <item value="爱好" />
-      <item value="favorties" />
     </histories>
   </component>
   <component name="Settings">
