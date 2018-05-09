@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="circumstances" />
       <item value="peek" />
       <item value="infer" />
       <item value="Map" />
@@ -52,7 +53,6 @@
       <item value="固定的" />
       <item value="flixed" />
       <item value="repeat Id" />
-      <item value="blockquote" />
     </histories>
   </component>
   <component name="Settings">
