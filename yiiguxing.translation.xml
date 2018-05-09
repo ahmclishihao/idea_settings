@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="Supported in addition to the standard scopes &quot;singleton&quot; and &quot;prototype&quot;." />
+      <item value="addition" />
       <item value="VIEW RESOLVER BEAN NAME" />
       <item value="Merged" />
       <item value="重复" />
@@ -51,8 +53,6 @@
       <item value="爱好" />
       <item value="favorties" />
       <item value="Web App Boundary" />
-      <item value="# For a quick start check out our HTTP Requests collection (Tools|HTTP Client|Open HTTP Requests Collection). # # Following HTTP Request Live Templates are available: # * 'gtrp' and 'gtr' create a GET request with or without query parameters; # * 'ptr' and 'ptrp' create a POST request with a simple or parameter-like body; # * 'mptr' and 'fptr' create a POST request to submit a form with a text or file field (multipart/form-data);" />
-      <item value="appropriate" />
     </histories>
   </component>
   <component name="Settings">
