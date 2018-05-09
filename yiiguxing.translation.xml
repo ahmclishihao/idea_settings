@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="formal" />
       <item value="Aspect" />
       <item value="circumstances" />
       <item value="peek" />
@@ -52,7 +53,6 @@
       <item value="模板" />
       <item value="module" />
       <item value="固定的" />
-      <item value="flixed" />
     </histories>
   </component>
   <component name="Settings">
