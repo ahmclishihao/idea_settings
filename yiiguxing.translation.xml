@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="Return whether this advice is associated with a particular instance (for example, creating a mixin) or shared with all instances of the advised class obtained from the same Spring bean factory. Note that this method is not currently used by the framework. Typical Advisor implementations always return true. Use singleton/prototype bean definitions or appropriate programmatic proxy creation to ensure that Advisors have the correct lifecycle model." />
+      <item value="is Per Instance" />
       <item value="formal" />
       <item value="Aspect" />
       <item value="circumstances" />
@@ -51,8 +53,6 @@
       <item value="seconds" />
       <item value="change" />
       <item value="模板" />
-      <item value="module" />
-      <item value="固定的" />
     </histories>
   </component>
   <component name="Settings">
