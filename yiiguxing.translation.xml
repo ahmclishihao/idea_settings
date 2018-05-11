@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="Abstract Queue" />
+      <item value="Deque" />
       <item value="少量" />
       <item value="Consumer" />
       <item value="Return whether this advice is associated with a particular instance (for example, creating a mixin) or shared with all instances of the advised class obtained from the same Spring bean factory. Note that this method is not currently used by the framework. Typical Advisor implementations always return true. Use singleton/prototype bean definitions or appropriate programmatic proxy creation to ensure that Advisors have the correct lifecycle model." />
@@ -51,8 +53,6 @@
       <item value="Metrics" />
       <item value="Metrics Filter" />
       <item value="Delegate" />
-      <item value="For updating, should this entity use dynamic sql generation where only changed columns get referenced in the prepared sql statement? Note, for re-attachment of detached entities this is not possible without select-before-update being enabled." />
-      <item value="seconds" />
     </histories>
   </component>
   <component name="Settings">
