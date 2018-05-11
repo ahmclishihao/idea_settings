@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="permits" />
+      <item value="信号" />
       <item value="Abstract Queue" />
       <item value="Deque" />
       <item value="少量" />
@@ -51,8 +53,6 @@
       <item value="Illegal use of mappedBy on both sides of the relationship: com.xrplatform_new.entity.TUnitInfo.tUnitResources" />
       <item value="proposed" />
       <item value="Metrics" />
-      <item value="Metrics Filter" />
-      <item value="Delegate" />
     </histories>
   </component>
   <component name="Settings">
