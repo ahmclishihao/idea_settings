@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="This just serves as a hint for the actual transaction subsystem; it will not necessarily cause failure of write access attempts. A transaction manager which cannot interpret the read-only hint will not throw an exception when asked for a read-only transaction but rather silently ignore the hint." />
+      <item value="This just serves as a hint for the actual transaction subsystem; it will not necessarily cause failure of write access attempts. A transaction manager which cannot interpret the read-only hint will not throw an exception when asked for a read-only transaction but rather silently ignore the hint" />
       <item value="capacity" />
       <item value="Reentrant" />
       <item value="permits" />
@@ -51,8 +53,6 @@
       <item value="flat Map" />
       <item value="reduce" />
       <item value="resources" />
-      <item value="buttom" />
-      <item value="Illegal use of mappedBy on both sides of the relationship: com.xrplatform_new.entity.TUnitInfo.tUnitResources" />
     </histories>
   </component>
   <component name="Settings">
