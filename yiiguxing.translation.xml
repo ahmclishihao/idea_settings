@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="Introspector" />
       <item value="Oper" />
       <item value="incorrect" />
       <item value="This just serves as a hint for the actual transaction subsystem; it will not necessarily cause failure of write access attempts. A transaction manager which cannot interpret the read-only hint will not throw an exception when asked for a read-only transaction but rather silently ignore the hint." />
@@ -52,7 +53,6 @@
       <item value="delegate" />
       <item value="Note: Only invoked on beans whose lifecycle is under the full control of the factory - which is always the case for singletons, but not guaranteed for any other scope." />
       <item value="guaranteed" />
-      <item value="flat Map" />
     </histories>
   </component>
   <component name="Settings">
