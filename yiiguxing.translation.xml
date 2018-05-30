@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="Caller Runs" />
+      <item value="Discard" />
       <item value="Introspector" />
       <item value="Oper" />
       <item value="incorrect" />
@@ -51,8 +53,6 @@
       <item value="oneshot" />
       <item value="onshot" />
       <item value="delegate" />
-      <item value="Note: Only invoked on beans whose lifecycle is under the full control of the factory - which is always the case for singletons, but not guaranteed for any other scope." />
-      <item value="guaranteed" />
     </histories>
   </component>
   <component name="Settings">
