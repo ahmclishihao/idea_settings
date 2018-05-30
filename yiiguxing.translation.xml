@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="fairness" />
       <item value="Caller Runs" />
       <item value="Discard" />
       <item value="Introspector" />
@@ -52,7 +53,6 @@
       <item value="expression" />
       <item value="oneshot" />
       <item value="onshot" />
-      <item value="delegate" />
     </histories>
   </component>
   <component name="Settings">
