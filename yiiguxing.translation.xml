@@ -3,6 +3,14 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="equals Ignore Case" />
+      <item value="AUTHENTICATION EXCEPTION" />
+      <item value="Qualifier" />
+      <item value="ant Matchers" />
+      <item value="authenticated" />
+      <item value="Customer" />
+      <item value="自定义" />
+      <item value="Authentication" />
       <item value="Policy" />
       <item value="fairness" />
       <item value="Caller Runs" />
@@ -45,14 +53,6 @@
       <item value="NOMORAL" />
       <item value="Returns true if and only if the specified class was dynamically generated to be a proxy class using the getProxyClass method or the newProxyInstance method. The reliability of this method is important for the ability to use it to make security decisions, so its implementation should not just test if the class in question extends Proxy" />
       <item value="Caller Sensitive" />
-      <item value="Sensitive" />
-      <item value="designated" />
-      <item value="initargs" />
-      <item value="Privileged" />
-      <item value="Autowired" />
-      <item value="Qualifier" />
-      <item value="expression" />
-      <item value="oneshot" />
     </histories>
   </component>
   <component name="Settings">
